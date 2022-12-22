@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I do random coding when I feel like it. I created Ultimate DoomVisor HUD, and that's about it really. I have other things that I've never published, so maybe I'll one day put them up here.
 
 <!--
 **saegiru/saegiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
